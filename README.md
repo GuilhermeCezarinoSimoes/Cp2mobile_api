@@ -134,5 +134,5 @@ Response: 200
 ## 📦 Entrega
 
 - **Grupo:** 5 integrantes - rm557724 guilherme cezarino simoes / rm557813 fabrini araujo
-- **Repositório:** link do GitHub
+- **Repositório:** link do GitHub https://github.com/GuilhermeCezarinoSimoes/Cp2mobile_api#
 - **Enviar para:** Anderson da Silva Nascimento (Teams)
